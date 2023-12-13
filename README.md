@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+Currently doing React development at Stellar Elements✨ (formerly known as Big Nerd Ranch 🤠)
+
+My current personal tech stack usually includes tools like:
+- Typescript
+- React
+- TailwindCSS
+- Astro
+- Next.js
+- Three.js (+ React-three-fiber)
+- react-spring
+- Jotai
+
+Check out my [portfolio website](https://bryanlindsey.dev/)
+
 <!--
 **bryndsey/bryndsey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
