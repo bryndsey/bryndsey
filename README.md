@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Currently doing React development at Stellar Elements✨ (formerly known as Big Nerd Ranch 🤠)
+Currently doing Front-end web development at Livefront.
 
 My current personal tech stack usually includes tools like:
 - Typescript
